@@ -3,7 +3,7 @@
     "name": "Aditya Bansal",
     "occupation": "Backend Developer && Freelancer && Undergraduate CSE Engineer",
     "description": "Full Stack  Developer by Day, Founder && Freelancer by Night",
-    "image": "IG_Sonny.jpeg",
+    "image": "adityabansal.jpg",
     "bio": "My name is Aditya, I'm a Full Stack Developer. Currently I'm Undergraduate CSE Engineer ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "adityabansal17121998@gmail.com",
@@ -14,7 +14,7 @@
       "zip": "560068"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1cK8kzGhmpppRe6qxrxDIHEBvpK1d04wW/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -98,10 +98,10 @@
         "url": "https://restaurant-order-management.herokuapp.com/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "WEFIVE Quora ",
+        "category": "Quora Clone built with MEN (MongoDB, ExpressJS, NodeJS)",
+        "image": "wefive.png",
+        "url": "https://wefive.herokuapp.com/"
       },
       {
         "title": "Facebook Clone with React",
